@@ -29,6 +29,15 @@ This project demonstrates practical implementation of embedded systems, motor co
 
 4.) Robot stops after suppression.
 
+## Project Images
+
+### Robot 
+![Robot](Images/Robot.png)
+### Circuit Diagram
+![Circuit](Images/Circuit_Diagram.png)
+### Block Diagram 
+![Block Diagram](Images/Block_Diagram.png)
+
 ## How to Run
 1.) Install Arduino IDE (v1.8.19 or above)
 2.) Open fire_fighting_robot.ino
